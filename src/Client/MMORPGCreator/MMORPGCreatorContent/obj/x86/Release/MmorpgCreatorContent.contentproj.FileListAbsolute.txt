@@ -1,0 +1,3 @@
+C:\Users\Mathieu\Dropbox\privées\Client\amdaro\amdaroContent\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Dropbox\Dropbox\privées\Client\amdaro\amdaroContent\obj\x86\Release\MmorpgCreatorContent.contentprojResolveAssemblyReference.cache
+D:\mmorpg-creator\src\Client\MMORPGCreator\MMORPGCreatorContent\obj\x86\Release\MmorpgCreatorContent.contentprojResolveAssemblyReference.cache

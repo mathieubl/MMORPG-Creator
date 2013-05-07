@@ -1,0 +1,2 @@
+C:\Users\Mathieu\Dropbox\privées\Client\amdaro\amdaroContent\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Dropbox\Dropbox\privées\Client\amdaro\amdaroContent\obj\x86\Debug\MmorpgCreatorContent.contentprojResolveAssemblyReference.cache

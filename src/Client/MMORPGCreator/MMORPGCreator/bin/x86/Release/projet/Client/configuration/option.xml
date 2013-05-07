@@ -1,0 +1,28 @@
+<option>
+
+	<patch>
+		<url></url>
+	</patch>
+
+	<reseau>
+		<ip></ip>
+		<port></port>
+	</reseau>
+	
+	<skin>
+		<filename type="true">skin1</filename>
+		<filename>skin2</filename>
+		<filename>skin3</filename>
+	</skin>
+
+	<player>
+		<NameVisible value="true" />
+		<HpVisible value="true" />
+		<MpVisible value="true" />
+		<ShadowVisible value="true" />
+		
+	</player>
+
+
+
+</option>

@@ -1,0 +1,10 @@
+C:\Users\Mathieu\Dropbox\privées\MmorpgCreatorMain\MmorpgCreatorMain\obj\x86\Debug\MmorpgCreatorMain.pdb
+C:\Users\Mathieu\Dropbox\privées\MmorpgCreatorMain\MmorpgCreatorMain\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mathieu\Dropbox\privées\MmorpgCreatorMain\MmorpgCreatorMain\bin\Debug\MmorpgCreatorMain.dll
+C:\Users\Mathieu\Dropbox\privées\MmorpgCreatorMain\MmorpgCreatorMain\bin\Debug\MmorpgCreatorMain.pdb
+C:\Users\Mathieu\Dropbox\privées\MmorpgCreatorMain\MmorpgCreatorMain\obj\x86\Debug\MmorpgCreatorMain.dll
+D:\Dropbox\Dropbox\privées\MmorpgCreatorMain\MmorpgCreatorMain\bin\Debug\MmorpgCreatorMain.dll
+D:\Dropbox\Dropbox\privées\MmorpgCreatorMain\MmorpgCreatorMain\bin\Debug\MmorpgCreatorMain.pdb
+D:\Dropbox\Dropbox\privées\MmorpgCreatorMain\MmorpgCreatorMain\obj\x86\Debug\MmorpgCreatorMain.dll
+D:\Dropbox\Dropbox\privées\MmorpgCreatorMain\MmorpgCreatorMain\obj\x86\Debug\MmorpgCreatorMain.pdb
+D:\Dropbox\Dropbox\privées\MmorpgCreatorMain\MmorpgCreatorMain\obj\x86\Debug\MMORPGCreator.csprojResolveAssemblyReference.cache

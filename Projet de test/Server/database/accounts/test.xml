@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<account>
+	<character>
+		<name>test</name>
+		<id>32</id>
+		<password>dark</password>
+		<sprite>angel</sprite>
+		<location>
+			<map>1</map>
+			<x>5</x>
+			<y>5</y>
+		</location>
+	</character>
+</account>

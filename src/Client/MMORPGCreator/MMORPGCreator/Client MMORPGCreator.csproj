@@ -1,0 +1,390 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectGuid>{DFA3C517-8A73-4105-AEFD-15DE827D5099}</ProjectGuid>
+    <ProjectTypeGuids>{6D335F3A-9D43-41b4-9D22-F6F17C4BE596};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MmorpgEngine</RootNamespace>
+    <AssemblyName>Mmorpg Engine[Client]</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <XnaFrameworkVersion>v4.0</XnaFrameworkVersion>
+    <XnaPlatform>Windows</XnaPlatform>
+    <XnaProfile>Reach</XnaProfile>
+    <XnaCrossPlatformGroupID>357b9968-3db5-4b17-88d1-bfc82a48aeea</XnaCrossPlatformGroupID>
+    <XnaOutputType>Game</XnaOutputType>
+    <ApplicationIcon>Game.ico</ApplicationIcon>
+    <Thumbnail>GameThumbnail.png</Thumbnail>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\Mathieu\Desktop\Projet -MmorpgCreator\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\x86\Debug</OutputPath>
+    <DefineConstants>DEBUG;TRACE;WINDOWS</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoStdLib>true</NoStdLib>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <PlatformTarget>x86</PlatformTarget>
+    <XnaCompressContent>False</XnaCompressContent>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <DocumentationFile>
+    </DocumentationFile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\x86\Release</OutputPath>
+    <DefineConstants>DEBUG;TRACE;WINDOWS</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoStdLib>true</NoStdLib>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <PlatformTarget>x86</PlatformTarget>
+    <XnaCompressContent>False</XnaCompressContent>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <DocumentationFile>
+    </DocumentationFile>
+    <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>11C2634F8BCD7A93602DD85EBC226AA63200EEF3</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>amdaro_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup />
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>MmorpgEngine.Program</StartupObject>
+  </PropertyGroup>
+  <PropertyGroup />
+  <PropertyGroup />
+  <PropertyGroup />
+  <PropertyGroup>
+    <SignAssembly>false</SignAssembly>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Xna.Framework, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=x86">
+      <Private>True</Private>
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Microsoft.Xna.Framework.Game, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=x86" />
+    <Reference Include="Microsoft.Xna.Framework.GamerServices, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Xna.Framework.Graphics, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=x86" />
+    <Reference Include="Microsoft.Xna.Framework.Input.Touch, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Xna.Framework.Storage, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Xna.Framework.Video, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Xna.Framework.Xact, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=x86" />
+    <Reference Include="mscorlib">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.ServiceProcess" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Core">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Net">
+      <Private>False</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Engines\Editor\EditorSubEngine\EngineEditorMap.cs" />
+    <Compile Include="Engines\Editor\EditorSubEngine\EngineEditorNpc.cs" />
+    <Compile Include="Engines\Editor\EditorSubEngine\EngineEditorParameter.cs" />
+    <Compile Include="Engines\Game\EngineParameter.cs" />
+    <Compile Include="Engines\Editor\EditorSubEngine\EngineEditorWinform.cs" />
+    <Compile Include="Engine\Play_Component\Skin\Skin.cs" />
+    <Compile Include="Forms\Controls\CtrlEditList.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Forms\Controls\CtrlEditList.Designer.cs">
+      <DependentUpon>CtrlEditList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Engine\Play_Component\Fog\Fog.cs" />
+    <Compile Include="Engine\Play_Component\Fog\FpsCompteur.cs" />
+    <Compile Include="Forms\frmapropos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmapropos.Designer.cs">
+      <DependentUpon>frmapropos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmconditioneditor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmconditioneditor.Designer.cs">
+      <DependentUpon>frmconditioneditor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmmapeditorlist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmmapeditorlist.Designer.cs">
+      <DependentUpon>frmmapeditorlist.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmnavigator.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmnavigator.Designer.cs">
+      <DependentUpon>frmnavigator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmevents.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmevents.Designer.cs">
+      <DependentUpon>frmevents.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmlogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmlogin.Designer.cs">
+      <DependentUpon>frmlogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmnpceditor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmnpceditor.Designer.cs">
+      <DependentUpon>frmnpceditor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmnpceditorlist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmnpceditorlist.Designer.cs">
+      <DependentUpon>frmnpceditorlist.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmproprieties.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmproprieties.Designer.cs">
+      <DependentUpon>frmproprieties.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmviewimg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmviewimg.Designer.cs">
+      <DependentUpon>frmviewimg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Éditeur de map\frmoption.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Éditeur de map\frmoption.Designer.cs">
+      <DependentUpon>frmoption.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Éditeur de map\frmselectcollision.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Éditeur de map\frmselectcollision.Designer.cs">
+      <DependentUpon>frmselectcollision.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Éditeur de map\frmselectground.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Éditeur de map\frmselectground.Designer.cs">
+      <DependentUpon>frmselectground.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Éditeur de map\frmtileset.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Éditeur de map\frmtileset.Designer.cs">
+      <DependentUpon>frmtileset.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmprojects.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmprojects.Designer.cs">
+      <DependentUpon>frmprojects.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Global\GlobalDataEditor.cs" />
+    <Compile Include="Global\GlobalEnum.cs" />
+    <Compile Include="objects\condition.cs" />
+    <Compile Include="Properties\DataSources\Resource1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resource1.resx</DependentUpon>
+    </Compile>
+    <Compile Include="tools\Camera.cs" />
+    <Compile Include="Global\GlobalDataGame.cs" />
+    <Compile Include="Forms\Éditeur de map\frmselectobjet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Éditeur de map\frmselectobjet.Designer.cs">
+      <DependentUpon>frmselectobjet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="tools\Timer.cs" />
+    <Compile Include="objects\engine\animation.cs" />
+    <Compile Include="objects\engine\chat.cs" />
+    <Compile Include="objects\map\maptile.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Engine\game.cs" />
+    <Compile Include="Engine\loading.cs" />
+    <Compile Include="Engine\login.cs" />
+    <Compile Include="Engine\menu.cs" />
+    <Compile Include="Engine\play.cs" />
+    <Compile Include="skin\SkinWindow.cs" />
+    <Compile Include="skin\SkinBorder.cs" />
+    <Compile Include="skin\SkinButton.cs" />
+    <Compile Include="net\socket.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Game.ico" />
+    <Content Include="GameThumbnail.png" />
+    <Content Include="Resources\accept.png" />
+    <None Include="Resources\Image1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\MmorpgCreatorMain\MmorpgCreatorMain\MMORPGCreator.csproj">
+      <Project>{9B6D881D-BD07-49F4-AF64-503FC444F874}</Project>
+      <Name>MMORPGCreator</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MMORPGCreatorContent\MmorpgCreatorContent.contentproj">
+      <Name>MmorpgCreatorContent %28Content%29</Name>
+      <XnaReferenceType>Content</XnaReferenceType>
+      <Project>{BBCE8158-A49C-4ED6-BC52-2A9484D163FD}</Project>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 et x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Xna.Framework.4.0">
+      <Visible>False</Visible>
+      <ProductName>Microsoft XNA Framework Redistributable 4.0</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Forms\Controls\CtrlEditList.resx">
+      <DependentUpon>CtrlEditList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmapropos.resx">
+      <DependentUpon>frmapropos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmconditioneditor.resx">
+      <DependentUpon>frmconditioneditor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmevents.resx">
+      <DependentUpon>frmevents.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmlogin.resx">
+      <DependentUpon>frmlogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmmapeditorlist.resx">
+      <DependentUpon>frmmapeditorlist.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmnavigator.resx">
+      <DependentUpon>frmnavigator.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmnpceditor.resx">
+      <DependentUpon>frmnpceditor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmnpceditorlist.resx">
+      <DependentUpon>frmnpceditorlist.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmproprieties.resx">
+      <DependentUpon>frmproprieties.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Éditeur de map\frmoption.resx">
+      <DependentUpon>frmoption.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Éditeur de map\frmselectcollision.resx">
+      <DependentUpon>frmselectcollision.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Éditeur de map\frmselectground.resx">
+      <DependentUpon>frmselectground.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Éditeur de map\frmselectobjet.resx">
+      <DependentUpon>frmselectobjet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Éditeur de map\frmtileset.resx">
+      <DependentUpon>frmtileset.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmprojects.resx">
+      <DependentUpon>frmprojects.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\DataSources\Resource1.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resource1.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="objects\entity\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\XNA Game Studio\Microsoft.Xna.GameStudio.targets" />
+  <PropertyGroup>
+    <PreBuildEvent>
+    </PreBuildEvent>
+  </PropertyGroup>
+  <!--
+      To modify your build process, add your task inside one of the targets below and uncomment it. 
+      Other similar extension points exist, see Microsoft.Common.targets.
+      <Target Name="BeforeBuild">
+      </Target>
+      <Target Name="AfterBuild">
+      </Target>
+    -->
+</Project>

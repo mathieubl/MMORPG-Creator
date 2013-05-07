@@ -1,0 +1,3 @@
+C:\Users\Mathieu\Dropbox\Programmeur\Engine XNA\Client\amdaro\amdaroContent\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Dropbox\Amdaro\Engine XNA\Client\amdaro\amdaroContent\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Mathieu\Dropbox\privées\Client\amdaro\amdaroContent\obj\x86\Release\ResolveAssemblyReference.cache

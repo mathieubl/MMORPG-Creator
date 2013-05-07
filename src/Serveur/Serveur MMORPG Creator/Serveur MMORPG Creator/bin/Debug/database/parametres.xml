@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<parametres>
+	<general>
+		<ServerName>Mmorpg Creator</ServerName>
+	</general>
+	
+	<adress>
+		<ip></ip>
+		<port></port>
+	</adress>
+	
+	<rates>
+		<xp>1.0</xp>
+		<mp>1.0</mp>
+		<hp>1.0</hp>
+		<mp>1.0</mp>
+	</rates>
+</parametres>

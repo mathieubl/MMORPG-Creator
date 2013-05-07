@@ -1,0 +1,17 @@
+
+<serverlist>
+	<server>
+		<name>Server de test</name>
+		<ip>localhost</ip>
+		<port>5000</port>
+	</server>
+	
+	<server>
+		<name>Server 2</name>
+		<ip>localhost</ip>
+		<port>5000</port>
+	</server>
+	
+	
+</serverlist>
+
