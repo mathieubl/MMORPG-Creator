@@ -1,0 +1,39 @@
+D:\mmorpg-creator\src\Client\MMORPGCreator\MMORPGCreator\bin\x86\Release\Content\rectangle.xnb
+D:\mmorpg-creator\src\Client\MMORPGCreator\MMORPGCreator\bin\x86\Release\Content\font.xnb
+D:\mmorpg-creator\src\Client\MMORPGCreator\MMORPGCreator\bin\x86\Release\Content\Glow.xnb
+D:\mmorpg-creator\src\Client\MMORPGCreator\MMORPGCreator\bin\x86\Release\Content\defaultFont.xnb
+D:\mmorpg-creator\src\Client\MMORPGCreator\MMORPGCreator\bin\x86\Release\Mmorpg Engine[Client].exe.config
+D:\mmorpg-creator\src\Client\MMORPGCreator\MMORPGCreator\bin\x86\Release\Mmorpg Engine[Client].exe.manifest
+D:\mmorpg-creator\src\Client\MMORPGCreator\MMORPGCreator\bin\x86\Release\Mmorpg Engine[Client].application
+D:\mmorpg-creator\src\Client\MMORPGCreator\MMORPGCreator\bin\x86\Release\Mmorpg Engine[Client].exe
+D:\mmorpg-creator\src\Client\MMORPGCreator\MMORPGCreator\bin\x86\Release\Mmorpg Engine[Client].pdb
+D:\mmorpg-creator\src\Client\MMORPGCreator\MMORPGCreator\bin\x86\Release\Microsoft.Xna.Framework.dll
+D:\mmorpg-creator\src\Client\MMORPGCreator\MMORPGCreator\bin\x86\Release\MmorpgCreatorMain.dll
+D:\mmorpg-creator\src\Client\MMORPGCreator\MMORPGCreator\bin\x86\Release\MmorpgCreatorMain.pdb
+D:\mmorpg-creator\src\Client\MMORPGCreator\MMORPGCreator\bin\x86\Release\Microsoft.Xna.Framework.xml
+D:\mmorpg-creator\src\Client\MMORPGCreator\MMORPGCreator\bin\x86\Release\fr-FR\Microsoft.Xna.Framework.resources.dll
+D:\mmorpg-creator\src\Client\MMORPGCreator\MMORPGCreator\obj\x86\Release\Client MMORPGCreator.csprojResolveAssemblyReference.cache
+D:\mmorpg-creator\src\Client\MMORPGCreator\MMORPGCreator\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\mmorpg-creator\src\Client\MMORPGCreator\MMORPGCreator\obj\x86\Release\MmorpgEngine.CtrlEditList.resources
+D:\mmorpg-creator\src\Client\MMORPGCreator\MMORPGCreator\obj\x86\Release\MmorpgEngine.frmapropos.resources
+D:\mmorpg-creator\src\Client\MMORPGCreator\MMORPGCreator\obj\x86\Release\MmorpgEngine.frmconditioneditor.resources
+D:\mmorpg-creator\src\Client\MMORPGCreator\MMORPGCreator\obj\x86\Release\MmorpgEngine.frmevents.resources
+D:\mmorpg-creator\src\Client\MMORPGCreator\MMORPGCreator\obj\x86\Release\MmorpgEngine.frmlogin.resources
+D:\mmorpg-creator\src\Client\MMORPGCreator\MMORPGCreator\obj\x86\Release\MmorpgEngine.frmmapeditorlist.resources
+D:\mmorpg-creator\src\Client\MMORPGCreator\MMORPGCreator\obj\x86\Release\MmorpgEngine.frmnavigator.resources
+D:\mmorpg-creator\src\Client\MMORPGCreator\MMORPGCreator\obj\x86\Release\MmorpgEngine.frmnpceditor.resources
+D:\mmorpg-creator\src\Client\MMORPGCreator\MMORPGCreator\obj\x86\Release\MmorpgEngine.frmselectnpc.resources
+D:\mmorpg-creator\src\Client\MMORPGCreator\MMORPGCreator\obj\x86\Release\MmorpgEngine.frmproprieties.resources
+D:\mmorpg-creator\src\Client\MMORPGCreator\MMORPGCreator\obj\x86\Release\MmorpgEngine.frmoption.resources
+D:\mmorpg-creator\src\Client\MMORPGCreator\MMORPGCreator\obj\x86\Release\MmorpgEngine.forms.Éditeurs_de_map.frmselectcollision.resources
+D:\mmorpg-creator\src\Client\MMORPGCreator\MMORPGCreator\obj\x86\Release\MmorpgEngine.frmselectground.resources
+D:\mmorpg-creator\src\Client\MMORPGCreator\MMORPGCreator\obj\x86\Release\MmorpgEngine.frmselectobjet.resources
+D:\mmorpg-creator\src\Client\MMORPGCreator\MMORPGCreator\obj\x86\Release\MmorpgEngine.frmtileset.resources
+D:\mmorpg-creator\src\Client\MMORPGCreator\MMORPGCreator\obj\x86\Release\MmorpgEngine.frmprojects.resources
+D:\mmorpg-creator\src\Client\MMORPGCreator\MMORPGCreator\obj\x86\Release\MmorpgEngine.Properties.DataSources.Resource1.resources
+D:\mmorpg-creator\src\Client\MMORPGCreator\MMORPGCreator\obj\x86\Release\Client MMORPGCreator.csproj.GenerateResource.Cache
+D:\mmorpg-creator\src\Client\MMORPGCreator\MMORPGCreator\obj\x86\Release\Mmorpg Engine[Client].TrustInfo.xml
+D:\mmorpg-creator\src\Client\MMORPGCreator\MMORPGCreator\obj\x86\Release\Mmorpg Engine[Client].exe.manifest
+D:\mmorpg-creator\src\Client\MMORPGCreator\MMORPGCreator\obj\x86\Release\Mmorpg Engine[Client].application
+D:\mmorpg-creator\src\Client\MMORPGCreator\MMORPGCreator\obj\x86\Release\Mmorpg Engine[Client].exe
+D:\mmorpg-creator\src\Client\MMORPGCreator\MMORPGCreator\obj\x86\Release\Mmorpg Engine[Client].pdb
